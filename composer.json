@@ -1,0 +1,14 @@
+{
+    "name": "arogachev/instagram-tools",
+    "description": "Instagram tools",
+    "type": "project",
+    "require": {
+        "mgp25/instagram-php": "^2.0"
+    },
+    "authors": [
+        {
+            "name": "Alexey Rogachev",
+            "email": "arogachev90@gmail.com"
+        }
+    ]
+}
